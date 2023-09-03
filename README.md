@@ -3,6 +3,6 @@ I'm Jarrod, and this profile is for displaying my work as a programmer. You can 
 
 What I'm up to:
 - I'm currently obsessed with learning NeoVIM and vim motions. 
-- Building a dream journal webapp that leverages the OpenAI API with Ruby on Rails, Tailwind and React in mind.
+- Building a dream journal web app with Ruby on Rails and React.
 
 When I'm not programming, I like to :pencil2: sketch stuff in my sketchbook, :books: read books and :video_game: play indie video games
